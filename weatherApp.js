@@ -1,4 +1,4 @@
-var KEY = "";
+var KEY = "9e99177280206d5246b937c975ef275b";
 var city = "";
 $(function () {
     var city = "Chula+Vista";
